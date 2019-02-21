@@ -1,0 +1,9 @@
+com/example/apidemo/ApiController.class
+com/example/apidemo/entity/Book.class
+com/example/apidemo/config/PccConfig.class
+com/example/apidemo/repository/jpa/BookJpaRepository.class
+com/example/apidemo/ApidemoApplication.class
+com/example/apidemo/entity/BookGemfire.class
+com/example/apidemo/service/BookService.class
+com/example/apidemo/repository/gem/BookGemfireRepository.class
+com/example/apidemo/config/DbCloudConfig.class
